@@ -1,0 +1,1 @@
+Built and evaluated machine learning models in Python on large, high-dimensional datasets, including a custom KNN implemented from scratch. Applied data preprocessing, dimensionality reduction and performance analysis.
